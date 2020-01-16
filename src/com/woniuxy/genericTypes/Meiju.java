@@ -1,5 +1,6 @@
 package com.woniuxy.genericTypes;
 
 public enum Meiju {
-		you,liang,cha;
+		you,liang,cha,youxiu;
+	
 }
